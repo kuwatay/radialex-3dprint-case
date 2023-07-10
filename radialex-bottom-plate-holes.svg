@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 815.05 302.03">
+  <defs>
+    <style>.cls-1{fill:none;stroke:#231815;stroke-miterlimit:10;}
+    </style>
+  </defs>
+  <g id="印刷データ">
+    <g id="ボトムプレート">
+      <circle class="cls-1" cx="455.24" cy="201.24" r="2.83"/>
+      <circle class="cls-1" cx="359.81" cy="201.24" r="2.83"/>
+      <circle class="cls-1" cx="440.36" cy="95.77" r="2.83"/>
+      <circle class="cls-1" cx="374.68" cy="95.77" r="2.83"/>
+      <circle class="cls-1" cx="680.33" cy="69.1" r="2.83"/>
+      <circle class="cls-1" cx="134.76" cy="69.11" r="2.83"/>
+      <circle class="cls-1" cx="526.72" cy="202.58" r="2.83"/>
+      <circle class="cls-1" cx="503.35" cy="97.13" r="2.83"/>
+      <circle class="cls-1" cx="288.34" cy="202.58" r="2.83"/>
+      <circle class="cls-1" cx="311.71" cy="97.13" r="2.83"/>
+      <circle class="cls-1" cx="753.54" cy="120.97" r="2.83"/>
+      <circle class="cls-1" cx="61.52" cy="120.98" r="2.83"/>
+<!--      <rect id="リセットスイッチ" class="cls-1" x="396.19" y="208.9" width="22.68" height="11.34"/> -->
+    </g>
+  </g>
+</svg>
